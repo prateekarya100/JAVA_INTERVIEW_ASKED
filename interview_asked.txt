@@ -9,7 +9,7 @@
 9==> sort employees based on their salary in ascending/descending using streams 
 		[
 			method1 => comparator.comparing(Employee::getsalary);
-			method2 => sorted((e1,e2)->Double.compare(e2,e1);
+			method2 => sorted((e1,e2)->Double.compare(e2,e1));
 		]
 10=> what is HashMap ?
 11=> Filter employees who have a salary greater than 5000. [RSystems]

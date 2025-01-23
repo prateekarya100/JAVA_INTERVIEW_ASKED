@@ -25,3 +25,4 @@
 20=> Abstract classes vs Interfaces in java [wipro]
 21=> what is a Concept of Strings in java in memory context?
 22=> What features added in Java 17 & Java 8 ? [wipro]
+23=> Difference between Iterate vs Iterator(interface) [wipro]

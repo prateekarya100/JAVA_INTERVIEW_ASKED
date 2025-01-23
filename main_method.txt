@@ -1,1 +1,0 @@
-1> Why can't we use (this) keyword inside the main method?

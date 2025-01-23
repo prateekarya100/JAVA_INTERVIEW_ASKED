@@ -1,0 +1,20 @@
+1==> What is the difference between @Bean and @Component annotations.
+2==> Difference between HashMap and Concurrent HashMap?
+3==> Difference between Checked or Unchecked exception in java.
+4==> can we create 2 main methods in any class in java?
+5==> why main method is static ?
+6==> Difference between final , finally, finalize
+7==> what is immutability
+8==> explain encapsulation
+9==> sort employees based on their salary in ascending/descending using streams 
+		[
+			method1 => comparator.comparing(Employee::getsalary);
+			method2 => sorted((e1,e2)->Double.compare(e2,e1);
+		]
+10=> what is HashMap ?
+11=> Filter employees who have a salary greater than 5000. [RSystems]
+12=> Sort the filtered employees by their names in ascending order.[RSystems]
+13=> Map the filtered employees to their names and store them in a List<String>. [RSystems]
+14=> Find the first employee in the original list whose name starts with the letter J. If no such employee exists, return "Not Found".
+15=> Difference between HashMap and Concurrent HashMap? [wipro]
+ 

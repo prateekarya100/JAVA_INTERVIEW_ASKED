@@ -1,8 +1,8 @@
 1==> What is the difference between @Bean and @Component annotations.
-2==> Difference between HashMap and Concurrent HashMap? [RSystems,Infosys,wipro]
-3==> Difference between Checked or Unchecked exception in java.[RSystems,Infosys,wipro]
+2==> Difference between HashMap and Concurrent HashMap?
+3==> Difference between Checked or Unchecked exception in java.
 4==> can we create 2 main methods in any class in java? [INFOSYS]
-5==> why main method is static ? [Infosys]
+5==> why main method is static ?
 6==> Difference between final , finally, finalize [INFOSYS, WIPRO]
 7==> what is immutability
 8==> explain encapsulation [INFOSYS]
@@ -24,3 +24,4 @@
 19=> Which one is better to use Either Comparator or comparable interfaces. [wipro]
 20=> Abstract classes vs Interfaces in java [wipro]
 21=> what is a Concept of Strings in java in memory context?
+22=> What features added in Java 17 & Java 8 ? [wipro]

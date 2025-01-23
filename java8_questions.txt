@@ -1,0 +1,8 @@
+1> What is a Streams in Java?
+	Streams enable you to perform operations on data in a declarative and functional manner.
+	------------------
+	Declarative syntax
+	Lazy Evaluation
+	Immutability
+	Composability
+	------------------

@@ -1,0 +1,18 @@
+Encapsulation
+	=> Not providing direct access to modify private member inside a Bank Account class 
+	=> Provide Getters / Setters method to modify private fields in controlled manner
+	
+
+Advantages of Encapsulation
+=================================================================================================================================================================
+	Data Protection: 
+	 -- Encapsulation protects the internal state of an object from unintended modification by restricting direct access to its fields.
+
+	Controlled Access: 
+	 -- By providing getter and setter methods, encapsulation allows controlled access to the fields, including validation and additional logic.
+
+	Improved Maintainability: 
+         -- Encapsulation helps in isolating changes to specific parts of the code, making it easier to maintain and modify.
+
+	Enhanced Flexibility: 
+         -- The internal implementation of a class can be changed without affecting the code that uses the class, as long as the public interface remains consistent.

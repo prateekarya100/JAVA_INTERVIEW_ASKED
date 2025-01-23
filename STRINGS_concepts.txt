@@ -1,0 +1,24 @@
+STRINGS [ pool memory / heap memory]
+-------
+	-immutable
+	-string pool
+	-string creation
+			-using string literals
+			-using new keyword
+	-common string methods
+			-length
+			-concat
+			-substring
+			-indexOf
+			-charAt
+			-replace
+			-toUpperCase/toLowerCase
+	-string comparison
+			-equals
+			-equalsIgnoreCase
+			-compareTo
+	-string buffer and string builder	
+	-efficient string concatenation using [ + operator / StringBuffer / StringBuilder ]
+	-string interning
+	-string created using literals => pool memory
+	-string created using (new) keyword => heap memory

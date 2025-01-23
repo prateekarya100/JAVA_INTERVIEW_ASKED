@@ -1,0 +1,28 @@
+	INHERITANCE => BANKING SYSTEM
+
+-----------------------------------------------------------------------------
+		- BankAccount [super class]
+				fields
+	         --------------------------------------
+				- accountNumber [field]
+				- customerName [field]
+				- balance [field]
+		 --------------------------------------
+				- depositMoney [method]
+				- withdrawMoney [method]
+				- showBankDetails [method]
+-----------------------------------------------------------------------------
+		- SavingsAccount
+			- savingsInterest_Rate (4%)
+		- FDAccount
+			- fixedDepositInterest_Rate (8%)
+		- LoanAccount
+			- loanInterest_Rate (14%)
+===============================================================================
+		-------------------
+		ADVANTAGES
+		-------------------
+		- code reusability
+		- method overriding
+		- extensibility
+			- Extensibility: New account types can be added by creating new subclasses without modifying existing classes

@@ -1,6 +1,6 @@
 1==> What is the difference between @Bean and @Component annotations.
 2==> Difference between HashMap and Concurrent HashMap? [RSystems,Infosys,wipro]
-3==> Difference between Checked or Unchecked exception in java.
+3==> Difference between Checked or Unchecked exception in java.[RSystems,Infosys,wipro]
 4==> can we create 2 main methods in any class in java? [INFOSYS]
 5==> why main method is static ?
 6==> Difference between final , finally, finalize [INFOSYS, WIPRO]

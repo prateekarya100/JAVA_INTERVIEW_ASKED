@@ -18,7 +18,7 @@
 14=> Find the first employee in the original list whose name starts with the letter J. If no such employee exists, return "Not Found". [RSystems]
 
 15=> Difference between HashMap and Concurrent HashMap? [wipro]
-16=> What is multi-threading in java [wipro]
+16=> What is multi-threading [by extending thread class/ by implementing Runnable Interfaces] in java [wipro]
 17=> Difference between ArrayList and LinkedList, which one is better in performance and for insertion operation context[wipro]
 18=> what is Collection Framework? [wipro]
 19=> Which one is better to use Either Comparator or comparable interfaces. [wipro]

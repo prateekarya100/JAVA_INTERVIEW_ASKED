@@ -26,3 +26,4 @@
 21=> what is a Concept of Strings in java in memory context?
 22=> What features added in Java 17 & Java 8 ? [wipro]
 23=> Difference between Iteration / Iterate Vs Iterator(interface) [wipro]
+24=> Which copy of objects you're shared either shallow copy or deep copy? [iThena Tech Pvt Ltd]

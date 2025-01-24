@@ -27,3 +27,5 @@
 22=> What features added in Java 17 & Java 8 ? [wipro]
 23=> Difference between Iteration / Iterate Vs Iterator(interface) [wipro]
 24=> Which copy of objects you're shared either shallow copy or deep copy? [iThena Tech Pvt Ltd]
+25=> Explain SOLID principals in java? [iThena Tech Pvt Ltd]
+26=> Let suppose you're working on Library Management Project and you've 10 copies of same book how would you insert these copies in database at a time using java? [iThena Tech Pvt Ltd]

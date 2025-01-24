@@ -3,7 +3,7 @@
 3==> Difference between Checked or Unchecked exception in java.
 4==> can we create 2 main methods in any class in java? [INFOSYS]
 5==> why main method is static ?
-6==> Difference between final , finally, finalize [INFOSYS, WIPRO]
+6==> Difference between final , finally, finalize(try-with-resource cleanup[modern web apps]) [INFOSYS, WIPRO]
 7==> what is immutability
 8==> explain encapsulation [INFOSYS]
 9==> sort employees based on their salary in ascending/descending using streams 

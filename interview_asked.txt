@@ -30,7 +30,7 @@
 25=> Explain SOLID principals in java? [iThena Tech Pvt Ltd]
 26=> Let suppose you're working on Library Management Project and you've 10 copies of same book how would you insert these copies in database at a time using java? [iThena Tech Pvt Ltd]
 27=> Explain design patterns in java. [iThena Tech Pvt Ltd]
-28=> What I could do, if I just want to run try block but not finally block? [oracle]
+28=> What I could do, if I just want to run try block but not finally block? use-> exit(0) [oracle]
 29=> Output for flow of executions of the method,constructor,instance block? which run first then after run which and why [oracle]
 30=> Can we add private keyword in front of constructor [oracle]
 31=> 

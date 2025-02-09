@@ -21,7 +21,7 @@
 16=> What is multi-threading [by extending thread class/ by implementing Runnable Interfaces] in java [wipro]
 17=> Difference between ArrayList and LinkedList, which one is better in performance and for insertion operation context[wipro]
 18=> what is Collection Framework? [wipro]
-19=> Which one is better to use Either Comparator or comparable interfaces. [wipro]
+19=> Which one is better to use Either Comparator interfaces --> compare(Obj1 obj1,Obj2 obj2) or Comparable interfaces compareTo(Obj ob) . [wipro]
 20=> Abstract classes vs Interfaces in java [wipro]
 21=> what is a Concept of Strings in java in memory context?
 22=> What features added in Java 17 & Java 8 ? [wipro]

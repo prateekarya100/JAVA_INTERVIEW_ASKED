@@ -35,5 +35,6 @@
 30=> Can we add private keyword in front of constructor [oracle]
 31=> Count the frequency of each character in strings str = "aabbbccddde" [Bitxia Tech Solutions]
 32=> Can we store objects inside array or in HashMap which one is better and why? [Bitxia Tech Solutions]
-
-
+33=> Difference between @POST , @FETCH , @PUT, @PATCH, @DELETE, @UPDATE [Bitxia Tech Solutions]
+34=> How spring security and server distinguish roles as ADMIN logged in or USER logged-in. [Bitxia Tech Solutions]
+35=> Lifecycle of jenkins CICD pipeline, how local code is deployed to production? [Bitxia Tech Solutions]

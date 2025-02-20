@@ -40,4 +40,9 @@
 35=> Lifecycle of jenkins CICD pipeline, how local code is deployed to production? [Bitxia Tech Solutions]
 
 
-JAVA_COLLECTIONS ==> https://www.youtube.com/watch?v=92k5uokmW9o&t=2489s
+LEARNING RESOURCES
+------------------------------------------------------------------------
+1> CORE_JAVA ==> https://www.youtube.com/watch?v=eTXd89t8ngI&list=PLd3UqWTnYXOmx_J1774ukG_rvrpyWczm0
+2> JAVA_COLLECTIONS ==> https://www.youtube.com/watch?v=92k5uokmW9o&t=2489s
+3> MYSQL
+

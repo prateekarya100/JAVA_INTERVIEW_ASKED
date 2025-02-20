@@ -38,3 +38,6 @@
 33=> Difference between @POST , @FETCH , @PUT, @PATCH, @DELETE, @UPDATE [Bitxia Tech Solutions]
 34=> How spring security and server distinguish roles as ADMIN logged in or USER logged-in. [Bitxia Tech Solutions]
 35=> Lifecycle of jenkins CICD pipeline, how local code is deployed to production? [Bitxia Tech Solutions]
+
+
+JAVA_COLLECTIONS ==> https://www.youtube.com/watch?v=92k5uokmW9o&t=2489s

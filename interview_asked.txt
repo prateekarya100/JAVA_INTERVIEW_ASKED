@@ -38,6 +38,7 @@
 33=> Difference between @POST , @FETCH , @PUT, @PATCH, @DELETE, @UPDATE [Bitxia Tech Solutions]
 34=> How spring security and server distinguish roles as ADMIN logged in or USER logged-in. [Bitxia Tech Solutions]
 35=> Lifecycle of jenkins CICD pipeline, how local code is deployed to production? [Bitxia Tech Solutions]
+36=> Suppose you're working with JPA and causes error during transaction or operation, how would you deal with this? ==> @Transactional for Role Back Operations
 
 
 LEARNING RESOURCES

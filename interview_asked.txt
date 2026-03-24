@@ -1,6 +1,14 @@
-1==> What is the difference between @Bean and @Component annotations.
+1==> What is the difference between @Bean and @Component annotations.	
+ answer :: https://claude.ai/chat/9b7a8d72-5d33-4834-97c8-ab56524fa91c
+ 		 https://claude.ai/chat/9b7a8d72-5d33-4834-97c8-ab56524fa91c	
+	
 2==> Difference between HashMap {Not-Thread-Safe} and Concurrent HashMap {Thread-Safe}? [Infosys,Wipro,iThena Tech Pvt Ltd]
+ answer :: https://claude.ai/chat/30f20b66-5886-453e-9bd6-9f94d904313e
+
+
 3==> Difference between Checked or Unchecked exception in java.
+ answer :: https://claude.ai/chat/a04f4edc-ba6c-4675-928c-b691b2fe2000
+
 4==> can we create 2 main methods in any class in java? [INFOSYS]
 5==> why main method is static ?
 6==> Difference between final , finally, finalize(try-with-resource cleanup[modern web apps]) [INFOSYS, WIPRO,ORACLE]

@@ -11,8 +11,11 @@
 
 4==> can we create 2 main methods in any class in java? [INFOSYS]
 	answer :: https://claude.ai/chat/dfdafab0-9df2-4945-b299-7322106f9425
-	
+
 5==> why main method is static ?
+  answer ::  https://claude.ai/chat/f70cfb2f-e7b2-4cc4-ac87-e4957c81f052
+
+  
 6==> Difference between final , finally, finalize(try-with-resource cleanup[modern web apps]) [INFOSYS, WIPRO,ORACLE]
 7==> what is immutability
 8==> explain encapsulation [INFOSYS]

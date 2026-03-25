@@ -24,6 +24,8 @@
 	answer :: https://claude.ai/chat/49cd2eef-ca44-4fe6-a833-11ec8d8d085d
 
 8==> explain encapsulation [INFOSYS]
+	answer:: https://chatgpt.com/c/69c41cec-42b0-83a7-b594-3edf5b36cea1
+
 9==> sort employees based on their salary in ascending/descending using streams 
 		[
 			method1 => comparator.comparing(Employee::getsalary);

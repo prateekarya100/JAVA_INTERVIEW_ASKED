@@ -19,8 +19,10 @@
 6==> Difference between final , finally, finalize(try-with-resource cleanup[modern web apps]) [INFOSYS, WIPRO,ORACLE]
 	answer :: https://claude.ai/chat/9edfb407-e7a8-41f5-9f76-89384b20ba09
 
-	
-7==> what is immutability
+
+7==> what is immutability in java ?
+	answer :: https://claude.ai/chat/49cd2eef-ca44-4fe6-a833-11ec8d8d085d
+
 8==> explain encapsulation [INFOSYS]
 9==> sort employees based on their salary in ascending/descending using streams 
 		[

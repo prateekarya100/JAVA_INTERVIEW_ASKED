@@ -23,7 +23,7 @@
 7==> what is immutability in java ?
 	answer :: https://claude.ai/chat/49cd2eef-ca44-4fe6-a833-11ec8d8d085d
 
-8==> explain encapsulation [INFOSYS]
+8==> explain encapsulation in java [INFOSYS]
 	answer:: https://chatgpt.com/c/69c41cec-42b0-83a7-b594-3edf5b36cea1
 
 9==> sort employees based on their salary in ascending/descending using streams 
@@ -32,6 +32,8 @@
 			method2 => sorted((e1,e2)->Double.compare(e2,e1);
 		]
 10=> what is HashMap ?
+https://claude.ai/chat/4114be95-34a4-4419-ab4b-82cd1462af8d
+
 11=> Filter employees who have a salary greater than 5000. [RSystems]
 12=> Sort the filtered employees by their names in ascending order.[RSystems]
 13=> Map the filtered employees to their names and store them in a List<String>. [RSystems]

@@ -70,6 +70,18 @@ https://claude.ai/chat/5b231887-65ed-4ae8-ba7e-7c0315815231
 36=> Suppose you're working with JPA and causes error during transaction or operation, how would you deal with this? ==> @Transactional for Role Back 		 
      Operations. [inTellia Soft Tech]
 37=> How third party api call is possible inside microservices [inTellia Soft Tech]
+38=> What is Authentication & Authorization [ Accenture - 26/03/26 ]
+	https://chatgpt.com/c/69c553c5-3d80-83ab-a414-79d80c7f2a09
+39=> what is @SpringBootApplication = @Configuration + @EnableAutoConfiguration + @ComponentScan [ Accenture - 26/03/26 ]
+40=> @Transactional where it is used and why ? [ Accenture - 26/03/26 ]
+41=> What is JWT Token how it works and verify user , Brief on Header,Payload,Signature part of the jwt token. [ Accenture - 26/03/26 ]
+42=> I want to change the existing server in springboot app how it will be done. or I added new one but tomcat already in classpath, how I remove this conflict. [ Accenture - 26/03/26 ]
+	https://chatgpt.com/c/69c556f8-7938-83a3-8903-b66ef85f013e
+	https://chatgpt.com/c/69c55832-4518-83a9-a908-863ca8f9b16f
+
+
+43=> How we handle global exception what are the annotations we used at class level and method level [ Accenture - 26/03/26 ]
+	https://chatgpt.com/c/69c55666-e4b8-8324-b7ad-ab3d309df0ee
 
 
 LEARNING RESOURCES

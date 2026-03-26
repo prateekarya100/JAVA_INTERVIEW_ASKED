@@ -40,11 +40,13 @@ https://claude.ai/chat/4114be95-34a4-4419-ab4b-82cd1462af8d
 14=> Find the first employee in the original list whose name starts with the letter J. If no such employee exists, return "Not Found". [RSystems]
 
 15=> Difference between HashMap and Concurrent HashMap? [wipro]
-https://chatgpt.com/c/69c4c032-99cc-8322-b2a2-ce4f75107860
+https://claude.ai/chat/30f20b66-5886-453e-9bd6-9f94d904313e
 
 
 16=> What is multi-threading [by extending thread class/ by implementing Runnable Interfaces] in java [wipro]
 17=> Difference between ArrayList and LinkedList, which one is better in performance and for insertion operation context[wipro]
+http://chatgpt.com/c/69c4c032-99cc-8322-b2a2-ce4f75107860
+
 18=> what is Collection Framework? [wipro]
 19=> Which one is better to use Either Comparator interfaces --> compare(Obj1 obj1,Obj2 obj2) or Comparable interfaces compareTo(Obj ob) . [wipro]
 20=> Abstract classes vs Interfaces in java [wipro]

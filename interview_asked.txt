@@ -48,6 +48,8 @@ https://claude.ai/chat/30f20b66-5886-453e-9bd6-9f94d904313e
 http://chatgpt.com/c/69c4c032-99cc-8322-b2a2-ce4f75107860
 
 18=> what is Collection Framework? [wipro]
+https://claude.ai/chat/5b231887-65ed-4ae8-ba7e-7c0315815231
+
 19=> Which one is better to use Either Comparator interfaces --> compare(Obj1 obj1,Obj2 obj2) or Comparable interfaces compareTo(Obj ob) . [wipro]
 20=> Abstract classes vs Interfaces in java [wipro]
 21=> what is a Concept of Strings in java in memory context?
